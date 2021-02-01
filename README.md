@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Drupal projects
+- 🔭 I’m currently working with Shopware projects
 - 🌱 I’m currently learning React&Redux
 
 ### Connect with me:
