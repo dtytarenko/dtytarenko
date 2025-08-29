@@ -1,5 +1,5 @@
 ### I’m currently working with WordPress&Woocomerce, React&Redux
-Have experience in Drupal, Oxid, Shopware.
+Have experience in Drupal, Oxid, Shopware, Kotlin
 
 ### Connect with me:
 [<img src="https://simpleicons.org/icons/gmail.svg" width="22px" align="left" />](mailto:dmutro.tutarenko@gmail.com)
